@@ -1,5 +1,23 @@
-# 💫 About Me:
-🚀 Hi, I'm Mayank Sahu<br>💻 B.Tech IT | AI Enthusiast | Cybersecurity Explorer | Building Real-World Tech Solutions<br><br>🎯 Passionate about building AI-powered systems, GovTech platforms, and scalable SaaS products that solve real-world problems.<br><br>🧠 About Me<br><br>🔭 Currently Working On<br><br>🛡️ CyberRakshak – AI system for Deepfake Detection<br><br><br><br>🏙️ GovTech SaaS Platforms for smarter city infrastructure<br><br>👯 Looking to Collaborate On<br><br>Artificial Intelligence & Machine Learning projects<br><br>Cybersecurity and Digital Forensics<br><br>GovTech and Smart City technology<br><br>Innovative SaaS products<br><br>🤝 Looking for Help With<br><br>AI model optimization & deployment<br><br>Scalable system architecture<br><br>MLOps and production AI systems<br><br>🌱 Currently Learning<br><br>Machine Learning & Deep Learning<br><br>Data Science & Optimization<br><br>Full Stack Development<br><br>AI System Design<br><br>💬 Ask Me About<br><br>AI projects<br><br>Startup ideas & SaaS platforms<br><br>Cybersecurity & deepfake detection<br><br>Building tech solutions for governance<br><br>⚡ Fun Fact<br><br>I love transforming real-world problems into intelligent technology solutions.<br><br>⚙️ Tech Stack<br>👨‍💻 Languages<br><br>Python C++ JavaScript SQL<br><br>🧠 AI / Data Science<br><br>Machine Learning Deep Learning Data Science Computer Vision<br><br>🌐 Web Development<br><br>HTML CSS JavaScript Node.js<br><br>🔐 Cybersecurity<br><br>Digital Forensics Threat Analysis Deepfake Detection<br><br>📊 GitHub Stats<br><br>🔥 GitHub Streak<br><br>🌍 Connect With Me<br><br>📧 Email: mrmayanksahu2006@gmail.com<br><br>📱 Phone: +91 7905027329<br>📍 Location: Jhansi, Uttar Pradesh, India<br><br>🎯 Mission<br><br>Building intelligent technology that can transform governance, cities, and society.
+# 💫 About Me
+
+🚀 Hi, I'm Mayank Sahu  
+💻 B.Tech IT Student | AI & Cybersecurity Enthusiast  
+
+🔭 Currently Working On  
+🛡️ CyberRakshak – AI system for Deepfake Detection  
+🏙️ GovTech SaaS platforms for smarter city infrastructure  
+
+🌱 Currently Learning  
+Machine Learning • Deep Learning • Data Science • Full Stack Development  
+
+👯 Looking to Collaborate On  
+AI & Machine Learning • Cybersecurity • GovTech • SaaS products  
+
+💬 Ask Me About  
+AI Projects • Startup Ideas • Cybersecurity • Smart City Tech  
+
+⚡ Fun Fact  
+I enjoy turning real-world problems into impactful tech solutions.
 
 
 ## 🌐 Socials:
